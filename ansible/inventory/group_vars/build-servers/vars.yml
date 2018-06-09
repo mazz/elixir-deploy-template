@@ -1,7 +1,7 @@
 # Vars for build-servers group
 
 # App git repo
-app_repo: https://github.com/cogini/elixir-deploy-template
+app_repo: https://github.com/mazz/elixir-deploy-template
 # App Version, can be branch name, SHA-1, tag name, default to HEAD
 # app_version: HEAD
 

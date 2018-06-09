@@ -8,10 +8,10 @@ elixir_release_name: deploy-template
 elixir_release_name_code: deploy_template
 
 # Name of your organization or overall project, used to make a unique dir prefix
-elixir_release_org: myorg
+elixir_release_org: sidha
 
 # OS user the app runs under
-elixir_release_app_user: foo
+elixir_release_app_user: maz
 elixir_release_app_group: "{{ elixir_release_app_user }}"
 
 # OS user for deploy
