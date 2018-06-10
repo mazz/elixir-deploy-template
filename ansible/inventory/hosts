@@ -4,6 +4,9 @@ web-server
 [build-servers]
 web-server
 
+#[web-servers:vars]
+#ansible_password=rose00budd
+
 # [web-servers]
 # elixir-deploy-template-centos-7
 # elixir-deploy-template-ubuntu-16
